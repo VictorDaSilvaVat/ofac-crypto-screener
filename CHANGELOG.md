@@ -16,3 +16,4 @@ All notable changes to this project.
 - [2025-03-06] Update: KYC/KYT process documentation
 - [2025-03-06] Docs: regulatory framework notes
 - [2025-03-07] Fix: address validation edge cases
+- [2025-03-07] Update: watchlist matching algorithm

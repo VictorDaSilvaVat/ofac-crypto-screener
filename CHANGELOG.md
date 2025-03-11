@@ -23,3 +23,4 @@ All notable changes to this project.
 - [2025-03-10] Analysis: FATF travel rule implementation
 - [2025-03-10] Docs: regulatory framework notes
 - [2025-03-10] Research: blockchain compliance analysis
+- [2025-03-11] Research: DeFi compliance requirements

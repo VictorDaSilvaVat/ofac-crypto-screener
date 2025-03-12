@@ -26,3 +26,4 @@ All notable changes to this project.
 - [2025-03-11] Research: DeFi compliance requirements
 - [2025-03-11] Update: watchlist matching algorithm
 - [2025-03-12] Fix: address validation edge cases
+- [2025-03-12] Update: KYC/KYT process documentation

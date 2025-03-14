@@ -30,3 +30,4 @@ All notable changes to this project.
 - [2025-03-12] Refactor: compliance validation logic
 - [2025-03-12] Fix: address validation edge cases
 - [2025-03-14] Docs: regulatory framework notes
+- [2025-03-14] Update: AML risk assessment methodology

@@ -38,3 +38,4 @@ All notable changes to this project.
 - [2025-03-19] Update: KYC/KYT process documentation
 - [2025-03-20] Research: blockchain compliance analysis
 - [2025-03-20] Docs: API integration guidelines
+- [2025-03-20] Fix: address validation edge cases

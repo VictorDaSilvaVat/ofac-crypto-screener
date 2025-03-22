@@ -41,3 +41,4 @@ All notable changes to this project.
 - [2025-03-20] Fix: address validation edge cases
 - [2025-03-20] Research: cross-border transaction monitoring
 - [2025-03-21] Update: OFAC SDN list integration
+- [2025-03-22] Update: watchlist matching algorithm

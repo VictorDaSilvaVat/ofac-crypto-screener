@@ -48,3 +48,4 @@ All notable changes to this project.
 - [2025-03-25] Docs: API integration guidelines
 - [2025-03-26] Update: OFAC SDN list integration
 - [2025-03-27] Fix: address validation edge cases
+- [2025-03-28] Update: AML risk assessment methodology

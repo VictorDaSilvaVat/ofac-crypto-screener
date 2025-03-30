@@ -53,3 +53,4 @@ All notable changes to this project.
 - [2025-03-28] Update: KYC/KYT process documentation
 - [2025-03-28] Fix: address validation edge cases
 - [2025-03-30] Docs: API integration guidelines
+- [2025-03-30] Fix: address validation edge cases

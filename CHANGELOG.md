@@ -52,3 +52,4 @@ All notable changes to this project.
 - [2025-03-28] Update: AML risk assessment methodology
 - [2025-03-28] Update: KYC/KYT process documentation
 - [2025-03-28] Fix: address validation edge cases
+- [2025-03-30] Docs: API integration guidelines

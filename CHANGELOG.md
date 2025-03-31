@@ -54,3 +54,4 @@ All notable changes to this project.
 - [2025-03-28] Fix: address validation edge cases
 - [2025-03-30] Docs: API integration guidelines
 - [2025-03-30] Fix: address validation edge cases
+- [2025-03-31] Add: smart contract audit findings

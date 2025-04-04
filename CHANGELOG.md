@@ -64,3 +64,4 @@ All notable changes to this project.
 - [2025-04-03] Update: KYC/KYT process documentation
 - [2025-04-03] Update: watchlist matching algorithm
 - [2025-04-04] Update: KYC/KYT process documentation
+- [2025-04-04] Add: smart contract audit findings

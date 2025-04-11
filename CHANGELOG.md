@@ -79,3 +79,4 @@ All notable changes to this project.
 - [2025-04-10] Update: AML risk assessment methodology
 - [2025-04-10] Fix: address validation edge cases
 - [2025-04-10] Add: sanctions screening documentation
+- [2025-04-11] Update: OFAC SDN list integration

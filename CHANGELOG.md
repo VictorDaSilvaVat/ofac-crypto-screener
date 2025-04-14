@@ -85,3 +85,4 @@ All notable changes to this project.
 - [2025-04-13] Update: watchlist matching algorithm
 - [2025-04-13] Research: blockchain compliance analysis
 - [2025-04-14] Docs: API integration guidelines
+- [2025-04-14] Add: sanctions screening documentation

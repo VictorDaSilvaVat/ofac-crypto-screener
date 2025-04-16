@@ -90,3 +90,4 @@ All notable changes to this project.
 - [2025-04-15] Update: AML risk assessment methodology
 - [2025-04-15] Update: KYC/KYT process documentation
 - [2025-04-15] Docs: API integration guidelines
+- [2025-04-15] Add: transaction risk scoring model

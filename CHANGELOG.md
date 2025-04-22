@@ -98,3 +98,4 @@ All notable changes to this project.
 - [2025-04-20] Update: OFAC SDN list integration
 - [2025-04-22] Add: transaction risk scoring model
 - [2025-04-22] Docs: regulatory framework notes
+- [2025-04-22] Research: DeFi compliance requirements

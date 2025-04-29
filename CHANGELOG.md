@@ -109,3 +109,4 @@ All notable changes to this project.
 - [2025-04-25] Add: transaction risk scoring model
 - [2025-04-28] Research: cross-border transaction monitoring
 - [2025-04-28] Fix: address validation edge cases
+- [2025-04-28] Fix: address validation edge cases

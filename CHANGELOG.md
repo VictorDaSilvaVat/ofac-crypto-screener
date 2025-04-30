@@ -110,3 +110,4 @@ All notable changes to this project.
 - [2025-04-28] Research: cross-border transaction monitoring
 - [2025-04-28] Fix: address validation edge cases
 - [2025-04-28] Fix: address validation edge cases
+- [2025-04-30] Research: DeFi compliance requirements

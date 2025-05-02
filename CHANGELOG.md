@@ -117,3 +117,4 @@ All notable changes to this project.
 - [2025-05-01] Update: KYC/KYT process documentation
 - [2025-05-02] Update: OFAC SDN list integration
 - [2025-05-02] Update: KYC/KYT process documentation
+- [2025-05-02] Research: cross-border transaction monitoring

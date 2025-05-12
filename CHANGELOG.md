@@ -129,3 +129,4 @@ All notable changes to this project.
 - [2025-05-09] Update: AML risk assessment methodology
 - [2025-05-10] Refactor: compliance validation logic
 - [2025-05-11] Update: AML risk assessment methodology
+- [2025-05-12] Add: transaction risk scoring model

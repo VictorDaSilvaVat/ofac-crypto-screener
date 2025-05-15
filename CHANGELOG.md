@@ -133,3 +133,4 @@ All notable changes to this project.
 - [2025-05-13] Research: blockchain compliance analysis
 - [2025-05-14] Research: DeFi compliance requirements
 - [2025-05-14] Add: smart contract audit findings
+- [2025-05-15] Update: watchlist matching algorithm

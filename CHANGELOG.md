@@ -141,3 +141,4 @@ All notable changes to this project.
 - [2025-05-18] Research: DeFi compliance requirements
 - [2025-05-18] Add: smart contract audit findings
 - [2025-05-20] Fix: address validation edge cases
+- [2025-05-20] Refactor: compliance validation logic

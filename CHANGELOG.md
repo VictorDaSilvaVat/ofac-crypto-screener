@@ -143,3 +143,4 @@ All notable changes to this project.
 - [2025-05-20] Fix: address validation edge cases
 - [2025-05-20] Refactor: compliance validation logic
 - [2025-05-21] Update: OFAC SDN list integration
+- [2025-05-21] Update: watchlist matching algorithm

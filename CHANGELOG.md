@@ -148,3 +148,4 @@ All notable changes to this project.
 - [2025-05-22] Add: sanctions screening documentation
 - [2025-05-22] Docs: regulatory framework notes
 - [2025-05-22] Analysis: FATF travel rule implementation
+- [2025-05-23] Add: smart contract audit findings

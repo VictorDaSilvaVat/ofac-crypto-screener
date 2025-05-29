@@ -160,3 +160,4 @@ All notable changes to this project.
 - [2025-05-28] Add: smart contract audit findings
 - [2025-05-28] Research: cross-border transaction monitoring
 - [2025-05-28] Research: DeFi compliance requirements
+- [2025-05-28] Add: transaction risk scoring model

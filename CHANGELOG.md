@@ -168,3 +168,4 @@ All notable changes to this project.
 - [2025-06-02] Update: OFAC SDN list integration
 - [2025-06-02] Research: cross-border transaction monitoring
 - [2025-06-02] Add: transaction risk scoring model
+- [2025-06-03] Add: sanctions screening documentation

@@ -171,3 +171,4 @@ All notable changes to this project.
 - [2025-06-03] Add: sanctions screening documentation
 - [2025-06-04] Add: smart contract audit findings
 - [2025-06-04] Refactor: compliance validation logic
+- [2025-06-04] Research: DeFi compliance requirements

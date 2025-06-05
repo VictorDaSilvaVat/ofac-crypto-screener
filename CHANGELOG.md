@@ -169,3 +169,4 @@ All notable changes to this project.
 - [2025-06-02] Research: cross-border transaction monitoring
 - [2025-06-02] Add: transaction risk scoring model
 - [2025-06-03] Add: sanctions screening documentation
+- [2025-06-04] Add: smart contract audit findings

@@ -176,3 +176,4 @@ All notable changes to this project.
 - [2025-06-05] Update: OFAC SDN list integration
 - [2025-06-05] Docs: regulatory framework notes
 - [2025-06-05] Add: transaction risk scoring model
+- [2025-06-06] Add: transaction risk scoring model

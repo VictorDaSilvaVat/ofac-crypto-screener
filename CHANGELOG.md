@@ -180,3 +180,4 @@ All notable changes to this project.
 - [2025-06-06] Add: sanctions screening documentation
 - [2025-06-08] Research: blockchain compliance analysis
 - [2025-06-10] Analysis: FATF travel rule implementation
+- [2025-06-10] Update: watchlist matching algorithm

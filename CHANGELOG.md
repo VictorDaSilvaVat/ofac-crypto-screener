@@ -203,3 +203,4 @@ All notable changes to this project.
 - [2025-06-20] Research: blockchain compliance analysis
 - [2025-06-22] Refactor: compliance validation logic
 - [2025-06-23] Fix: address validation edge cases
+- [2025-06-23] Update: watchlist matching algorithm

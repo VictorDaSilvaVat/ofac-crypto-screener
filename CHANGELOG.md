@@ -206,3 +206,4 @@ All notable changes to this project.
 - [2025-06-23] Update: watchlist matching algorithm
 - [2025-06-24] Fix: address validation edge cases
 - [2025-06-24] Research: DeFi compliance requirements
+- [2025-06-25] Analysis: FATF travel rule implementation

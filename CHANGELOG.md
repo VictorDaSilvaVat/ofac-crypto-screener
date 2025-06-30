@@ -214,3 +214,4 @@ All notable changes to this project.
 - [2025-06-27] Docs: API integration guidelines
 - [2025-06-29] Docs: API integration guidelines
 - [2025-06-30] Docs: API integration guidelines
+- [2025-06-30] Research: cross-border transaction monitoring

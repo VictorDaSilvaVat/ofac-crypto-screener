@@ -212,3 +212,4 @@ All notable changes to this project.
 - [2025-06-27] Research: DeFi compliance requirements
 - [2025-06-27] Update: AML risk assessment methodology
 - [2025-06-27] Docs: API integration guidelines
+- [2025-06-29] Docs: API integration guidelines

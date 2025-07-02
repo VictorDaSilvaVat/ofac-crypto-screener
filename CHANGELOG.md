@@ -216,3 +216,4 @@ All notable changes to this project.
 - [2025-06-30] Docs: API integration guidelines
 - [2025-06-30] Research: cross-border transaction monitoring
 - [2025-07-01] Analysis: FATF travel rule implementation
+- [2025-07-01] Add: smart contract audit findings

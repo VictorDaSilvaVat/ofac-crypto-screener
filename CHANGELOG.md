@@ -223,3 +223,4 @@ All notable changes to this project.
 - [2025-07-02] Update: KYC/KYT process documentation
 - [2025-07-03] Analysis: FATF travel rule implementation
 - [2025-07-03] Research: DeFi compliance requirements
+- [2025-07-03] Update: OFAC SDN list integration

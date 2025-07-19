@@ -257,3 +257,4 @@ All notable changes to this project.
 - [2025-07-17] Research: cross-border transaction monitoring
 - [2025-07-17] Fix: address validation edge cases
 - [2025-07-18] Research: cross-border transaction monitoring
+- [2025-07-19] Add: sanctions screening documentation

@@ -259,3 +259,4 @@ All notable changes to this project.
 - [2025-07-18] Research: cross-border transaction monitoring
 - [2025-07-19] Add: sanctions screening documentation
 - [2025-07-20] Research: DeFi compliance requirements
+- [2025-07-20] Research: blockchain compliance analysis

@@ -262,3 +262,4 @@ All notable changes to this project.
 - [2025-07-20] Research: blockchain compliance analysis
 - [2025-07-22] Refactor: compliance validation logic
 - [2025-07-22] Fix: address validation edge cases
+- [2025-07-22] Update: KYC/KYT process documentation

@@ -265,3 +265,4 @@ All notable changes to this project.
 - [2025-07-22] Update: KYC/KYT process documentation
 - [2025-07-23] Update: OFAC SDN list integration
 - [2025-07-23] Add: sanctions screening documentation
+- [2025-07-23] Update: AML risk assessment methodology

@@ -272,3 +272,4 @@ All notable changes to this project.
 - [2025-07-25] Research: DeFi compliance requirements
 - [2025-07-25] Add: sanctions screening documentation
 - [2025-07-25] Docs: regulatory framework notes
+- [2025-07-26] Update: AML risk assessment methodology

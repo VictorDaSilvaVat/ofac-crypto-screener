@@ -283,3 +283,4 @@ All notable changes to this project.
 - [2025-07-29] Add: smart contract audit findings
 - [2025-07-30] Update: KYC/KYT process documentation
 - [2025-07-30] Research: cross-border transaction monitoring
+- [2025-07-30] Add: smart contract audit findings

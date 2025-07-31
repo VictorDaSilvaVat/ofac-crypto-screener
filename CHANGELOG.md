@@ -287,3 +287,4 @@ All notable changes to this project.
 - [2025-07-30] Update: OFAC SDN list integration
 - [2025-07-31] Docs: API integration guidelines
 - [2025-07-31] Refactor: compliance validation logic
+- [2025-07-31] Update: AML risk assessment methodology

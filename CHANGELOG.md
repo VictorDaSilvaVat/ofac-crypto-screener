@@ -288,3 +288,4 @@ All notable changes to this project.
 - [2025-07-31] Docs: API integration guidelines
 - [2025-07-31] Refactor: compliance validation logic
 - [2025-07-31] Update: AML risk assessment methodology
+- [2025-08-02] Analysis: FATF travel rule implementation

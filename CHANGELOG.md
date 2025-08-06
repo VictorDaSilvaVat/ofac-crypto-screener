@@ -293,3 +293,4 @@ All notable changes to this project.
 - [2025-08-03] Docs: regulatory framework notes
 - [2025-08-04] Research: blockchain compliance analysis
 - [2025-08-04] Add: transaction risk scoring model
+- [2025-08-05] Add: sanctions screening documentation

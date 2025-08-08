@@ -298,3 +298,4 @@ All notable changes to this project.
 - [2025-08-06] Research: cross-border transaction monitoring
 - [2025-08-06] Research: cross-border transaction monitoring
 - [2025-08-06] Research: DeFi compliance requirements
+- [2025-08-07] Analysis: FATF travel rule implementation

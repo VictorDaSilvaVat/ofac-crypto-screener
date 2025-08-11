@@ -306,3 +306,4 @@ All notable changes to this project.
 - [2025-08-09] Update: watchlist matching algorithm
 - [2025-08-11] Docs: API integration guidelines
 - [2025-08-11] Update: watchlist matching algorithm
+- [2025-08-11] Fix: address validation edge cases

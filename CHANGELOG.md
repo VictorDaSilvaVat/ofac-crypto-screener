@@ -310,3 +310,4 @@ All notable changes to this project.
 - [2025-08-11] Update: watchlist matching algorithm
 - [2025-08-12] Refactor: compliance validation logic
 - [2025-08-14] Docs: regulatory framework notes
+- [2025-08-14] Update: watchlist matching algorithm

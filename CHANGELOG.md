@@ -317,3 +317,4 @@ All notable changes to this project.
 - [2025-08-16] Fix: address validation edge cases
 - [2025-08-18] Fix: address validation edge cases
 - [2025-08-18] Add: transaction risk scoring model
+- [2025-08-19] Add: transaction risk scoring model

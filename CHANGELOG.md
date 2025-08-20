@@ -319,3 +319,4 @@ All notable changes to this project.
 - [2025-08-18] Add: transaction risk scoring model
 - [2025-08-19] Add: transaction risk scoring model
 - [2025-08-19] Refactor: compliance validation logic
+- [2025-08-19] Docs: regulatory framework notes

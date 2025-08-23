@@ -326,3 +326,4 @@ All notable changes to this project.
 - [2025-08-20] Research: blockchain compliance analysis
 - [2025-08-20] Add: sanctions screening documentation
 - [2025-08-21] Fix: address validation edge cases
+- [2025-08-23] Research: DeFi compliance requirements

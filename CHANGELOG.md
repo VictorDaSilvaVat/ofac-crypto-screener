@@ -340,3 +340,4 @@ All notable changes to this project.
 - [2025-08-28] Update: watchlist matching algorithm
 - [2025-08-28] Add: transaction risk scoring model
 - [2025-08-29] Fix: address validation edge cases
+- [2025-08-29] Update: OFAC SDN list integration

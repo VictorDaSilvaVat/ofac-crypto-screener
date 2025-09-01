@@ -345,3 +345,4 @@ All notable changes to this project.
 - [2025-08-30] Update: AML risk assessment methodology
 - [2025-08-31] Update: OFAC SDN list integration
 - [2025-09-01] Update: AML risk assessment methodology
+- [2025-09-01] Docs: API integration guidelines

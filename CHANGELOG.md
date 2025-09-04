@@ -351,3 +351,4 @@ All notable changes to this project.
 - [2025-09-02] Add: smart contract audit findings
 - [2025-09-03] Research: blockchain compliance analysis
 - [2025-09-03] Add: transaction risk scoring model
+- [2025-09-03] Add: transaction risk scoring model

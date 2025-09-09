@@ -359,3 +359,4 @@ All notable changes to this project.
 - [2025-09-08] Update: AML risk assessment methodology
 - [2025-09-08] Update: watchlist matching algorithm
 - [2025-09-09] Research: cross-border transaction monitoring
+- [2025-09-09] Docs: API integration guidelines

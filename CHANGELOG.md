@@ -366,3 +366,4 @@ All notable changes to this project.
 - [2025-09-11] Docs: regulatory framework notes
 - [2025-09-11] Update: KYC/KYT process documentation
 - [2025-09-11] Update: AML risk assessment methodology
+- [2025-09-12] Update: OFAC SDN list integration

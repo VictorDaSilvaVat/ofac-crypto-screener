@@ -389,3 +389,4 @@ All notable changes to this project.
 - [2025-09-23] Research: blockchain compliance analysis
 - [2025-09-24] Update: OFAC SDN list integration
 - [2025-09-24] Research: DeFi compliance requirements
+- [2025-09-24] Fix: address validation edge cases

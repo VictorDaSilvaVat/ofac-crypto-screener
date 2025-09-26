@@ -395,3 +395,4 @@ All notable changes to this project.
 - [2025-09-25] Update: OFAC SDN list integration
 - [2025-09-25] Research: cross-border transaction monitoring
 - [2025-09-26] Update: KYC/KYT process documentation
+- [2025-09-26] Fix: address validation edge cases

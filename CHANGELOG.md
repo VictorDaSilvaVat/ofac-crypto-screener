@@ -400,3 +400,4 @@ All notable changes to this project.
 - [2025-09-27] Research: blockchain compliance analysis
 - [2025-09-27] Docs: regulatory framework notes
 - [2025-09-28] Research: DeFi compliance requirements
+- [2025-09-29] Refactor: compliance validation logic

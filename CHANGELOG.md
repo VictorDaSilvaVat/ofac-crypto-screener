@@ -406,3 +406,4 @@ All notable changes to this project.
 - [2025-09-30] Research: cross-border transaction monitoring
 - [2025-10-01] Fix: address validation edge cases
 - [2025-10-01] Refactor: compliance validation logic
+- [2025-10-01] Refactor: compliance validation logic

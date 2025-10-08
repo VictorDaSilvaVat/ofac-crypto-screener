@@ -419,3 +419,4 @@ All notable changes to this project.
 - [2025-10-06] Update: OFAC SDN list integration
 - [2025-10-07] Research: DeFi compliance requirements
 - [2025-10-07] Update: KYC/KYT process documentation
+- [2025-10-07] Add: transaction risk scoring model

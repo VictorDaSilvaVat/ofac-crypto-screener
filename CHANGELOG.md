@@ -422,3 +422,4 @@ All notable changes to this project.
 - [2025-10-07] Add: transaction risk scoring model
 - [2025-10-07] Add: transaction risk scoring model
 - [2025-10-08] Add: sanctions screening documentation
+- [2025-10-08] Update: AML risk assessment methodology

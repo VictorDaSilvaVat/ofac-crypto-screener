@@ -432,3 +432,4 @@ All notable changes to this project.
 - [2025-10-14] Refactor: compliance validation logic
 - [2025-10-14] Update: KYC/KYT process documentation
 - [2025-10-16] Research: cross-border transaction monitoring
+- [2025-10-16] Docs: API integration guidelines

@@ -433,3 +433,4 @@ All notable changes to this project.
 - [2025-10-14] Update: KYC/KYT process documentation
 - [2025-10-16] Research: cross-border transaction monitoring
 - [2025-10-16] Docs: API integration guidelines
+- [2025-10-16] Add: smart contract audit findings

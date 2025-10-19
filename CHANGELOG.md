@@ -436,3 +436,4 @@ All notable changes to this project.
 - [2025-10-16] Add: smart contract audit findings
 - [2025-10-18] Add: smart contract audit findings
 - [2025-10-18] Add: smart contract audit findings
+- [2025-10-19] Docs: regulatory framework notes

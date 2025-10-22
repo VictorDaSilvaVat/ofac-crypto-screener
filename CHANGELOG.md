@@ -443,3 +443,4 @@ All notable changes to this project.
 - [2025-10-20] Docs: regulatory framework notes
 - [2025-10-21] Add: sanctions screening documentation
 - [2025-10-21] Add: transaction risk scoring model
+- [2025-10-22] Analysis: FATF travel rule implementation

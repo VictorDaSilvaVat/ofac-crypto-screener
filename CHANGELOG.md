@@ -448,3 +448,4 @@ All notable changes to this project.
 - [2025-10-22] Research: cross-border transaction monitoring
 - [2025-10-23] Add: sanctions screening documentation
 - [2025-10-25] Research: blockchain compliance analysis
+- [2025-10-26] Add: sanctions screening documentation

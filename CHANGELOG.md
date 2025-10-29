@@ -453,3 +453,4 @@ All notable changes to this project.
 - [2025-10-27] Update: AML risk assessment methodology
 - [2025-10-27] Docs: regulatory framework notes
 - [2025-10-27] Update: watchlist matching algorithm
+- [2025-10-28] Docs: regulatory framework notes

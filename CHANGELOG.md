@@ -467,3 +467,4 @@ All notable changes to this project.
 - [2025-11-02] Add: smart contract audit findings
 - [2025-11-03] Add: smart contract audit findings
 - [2025-11-03] Research: blockchain compliance analysis
+- [2025-11-03] Update: AML risk assessment methodology

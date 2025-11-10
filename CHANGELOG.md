@@ -478,3 +478,4 @@ All notable changes to this project.
 - [2025-11-08] Update: watchlist matching algorithm
 - [2025-11-10] Fix: address validation edge cases
 - [2025-11-10] Update: OFAC SDN list integration
+- [2025-11-10] Update: KYC/KYT process documentation

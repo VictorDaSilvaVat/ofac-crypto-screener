@@ -496,3 +496,4 @@ All notable changes to this project.
 - [2025-11-15] Update: watchlist matching algorithm
 - [2025-11-16] Update: KYC/KYT process documentation
 - [2025-11-18] Analysis: FATF travel rule implementation
+- [2025-11-18] Update: OFAC SDN list integration

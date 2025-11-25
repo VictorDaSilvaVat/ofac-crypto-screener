@@ -506,3 +506,4 @@ All notable changes to this project.
 - [2025-11-22] Update: KYC/KYT process documentation
 - [2025-11-23] Docs: API integration guidelines
 - [2025-11-23] Research: DeFi compliance requirements
+- [2025-11-24] Docs: API integration guidelines

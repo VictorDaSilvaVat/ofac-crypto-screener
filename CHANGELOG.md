@@ -519,3 +519,4 @@ All notable changes to this project.
 - [2025-11-27] Analysis: FATF travel rule implementation
 - [2025-11-27] Refactor: compliance validation logic
 - [2025-11-28] Add: transaction risk scoring model
+- [2025-11-28] Analysis: FATF travel rule implementation

@@ -521,3 +521,4 @@ All notable changes to this project.
 - [2025-11-28] Add: transaction risk scoring model
 - [2025-11-28] Analysis: FATF travel rule implementation
 - [2025-11-28] Update: OFAC SDN list integration
+- [2025-11-30] Add: sanctions screening documentation

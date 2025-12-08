@@ -528,3 +528,4 @@ All notable changes to this project.
 - [2025-12-04] Update: OFAC SDN list integration
 - [2025-12-05] Update: AML risk assessment methodology
 - [2025-12-05] Docs: regulatory framework notes
+- [2025-12-08] Docs: regulatory framework notes

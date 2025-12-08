@@ -530,3 +530,4 @@ All notable changes to this project.
 - [2025-12-05] Docs: regulatory framework notes
 - [2025-12-08] Docs: regulatory framework notes
 - [2025-12-08] Add: transaction risk scoring model
+- [2025-12-08] Docs: API integration guidelines

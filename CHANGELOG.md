@@ -535,3 +535,4 @@ All notable changes to this project.
 - [2025-12-09] Fix: address validation edge cases
 - [2025-12-09] Update: watchlist matching algorithm
 - [2025-12-10] Fix: address validation edge cases
+- [2025-12-11] Update: watchlist matching algorithm

@@ -538,3 +538,4 @@ All notable changes to this project.
 - [2025-12-11] Update: watchlist matching algorithm
 - [2025-12-12] Add: transaction risk scoring model
 - [2025-12-12] Add: transaction risk scoring model
+- [2025-12-12] Add: transaction risk scoring model

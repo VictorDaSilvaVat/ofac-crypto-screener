@@ -541,3 +541,4 @@ All notable changes to this project.
 - [2025-12-12] Add: transaction risk scoring model
 - [2025-12-13] Research: blockchain compliance analysis
 - [2025-12-15] Add: smart contract audit findings
+- [2025-12-15] Update: KYC/KYT process documentation

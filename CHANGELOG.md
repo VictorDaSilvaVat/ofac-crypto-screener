@@ -544,3 +544,4 @@ All notable changes to this project.
 - [2025-12-15] Update: KYC/KYT process documentation
 - [2025-12-15] Update: AML risk assessment methodology
 - [2025-12-15] Add: transaction risk scoring model
+- [2025-12-16] Research: blockchain compliance analysis

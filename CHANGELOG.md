@@ -559,3 +559,4 @@ All notable changes to this project.
 - [2025-12-24] Analysis: FATF travel rule implementation
 - [2025-12-24] Update: AML risk assessment methodology
 - [2025-12-25] Fix: address validation edge cases
+- [2025-12-26] Update: watchlist matching algorithm

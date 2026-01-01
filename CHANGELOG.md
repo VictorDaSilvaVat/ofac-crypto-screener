@@ -568,3 +568,4 @@ All notable changes to this project.
 - [2025-12-29] Update: watchlist matching algorithm
 - [2025-12-30] Docs: API integration guidelines
 - [2025-12-30] Add: transaction risk scoring model
+- [2025-12-31] Research: blockchain compliance analysis

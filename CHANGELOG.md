@@ -573,3 +573,4 @@ All notable changes to this project.
 - [2026-01-01] Research: DeFi compliance requirements
 - [2026-01-01] Add: sanctions screening documentation
 - [2026-01-01] Analysis: FATF travel rule implementation
+- [2026-01-02] Update: watchlist matching algorithm

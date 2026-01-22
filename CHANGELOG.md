@@ -593,3 +593,4 @@ All notable changes to this project.
 - [2026-01-17] Add: sanctions screening documentation
 - [2026-01-18] Update: OFAC SDN list integration
 - [2026-01-19] Update: KYC/KYT process documentation
+- [2026-01-21] Docs: regulatory framework notes

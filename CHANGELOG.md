@@ -599,3 +599,4 @@ All notable changes to this project.
 - [2026-01-23] Update: watchlist matching algorithm
 - [2026-01-23] Update: KYC/KYT process documentation
 - [2026-01-25] Update: AML risk assessment methodology
+- [2026-01-25] Analysis: FATF travel rule implementation

@@ -606,3 +606,4 @@ All notable changes to this project.
 - [2026-01-29] Docs: regulatory framework notes
 - [2026-01-30] Add: sanctions screening documentation
 - [2026-01-31] Add: sanctions screening documentation
+- [2026-02-01] Research: blockchain compliance analysis

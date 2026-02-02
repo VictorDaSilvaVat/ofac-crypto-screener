@@ -609,3 +609,4 @@ All notable changes to this project.
 - [2026-02-01] Research: blockchain compliance analysis
 - [2026-02-01] Update: KYC/KYT process documentation
 - [2026-02-02] Docs: regulatory framework notes
+- [2026-02-02] Refactor: compliance validation logic

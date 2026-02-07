@@ -612,3 +612,4 @@ All notable changes to this project.
 - [2026-02-02] Refactor: compliance validation logic
 - [2026-02-05] Refactor: compliance validation logic
 - [2026-02-05] Analysis: FATF travel rule implementation
+- [2026-02-06] Refactor: compliance validation logic

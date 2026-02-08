@@ -614,3 +614,4 @@ All notable changes to this project.
 - [2026-02-05] Analysis: FATF travel rule implementation
 - [2026-02-06] Refactor: compliance validation logic
 - [2026-02-06] Research: cross-border transaction monitoring
+- [2026-02-08] Analysis: FATF travel rule implementation

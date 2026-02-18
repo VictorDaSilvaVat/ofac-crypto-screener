@@ -629,3 +629,4 @@ All notable changes to this project.
 - [2026-02-16] Docs: API integration guidelines
 - [2026-02-16] Docs: regulatory framework notes
 - [2026-02-18] Docs: API integration guidelines
+- [2026-02-18] Update: watchlist matching algorithm

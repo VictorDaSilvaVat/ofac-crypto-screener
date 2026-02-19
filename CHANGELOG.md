@@ -631,3 +631,4 @@ All notable changes to this project.
 - [2026-02-18] Docs: API integration guidelines
 - [2026-02-18] Update: watchlist matching algorithm
 - [2026-02-19] Add: sanctions screening documentation
+- [2026-02-19] Analysis: FATF travel rule implementation

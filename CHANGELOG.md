@@ -632,3 +632,4 @@ All notable changes to this project.
 - [2026-02-18] Update: watchlist matching algorithm
 - [2026-02-19] Add: sanctions screening documentation
 - [2026-02-19] Analysis: FATF travel rule implementation
+- [2026-02-19] Update: OFAC SDN list integration

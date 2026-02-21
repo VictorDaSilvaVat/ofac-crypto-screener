@@ -636,3 +636,4 @@ All notable changes to this project.
 - [2026-02-19] Refactor: compliance validation logic
 - [2026-02-20] Docs: API integration guidelines
 - [2026-02-20] Update: OFAC SDN list integration
+- [2026-02-20] Docs: API integration guidelines

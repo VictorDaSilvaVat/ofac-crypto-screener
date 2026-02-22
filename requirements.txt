@@ -1,0 +1,29 @@
+# Core dependencies
+lxml>=5.0.0              # XML parsing for SDN data
+requests>=2.31.0         # HTTP client for SLS API
+flask>=3.0.0             # REST API framework
+click>=8.1.0             # CLI framework
+
+# Data processing
+pandas>=2.0.0            # Data manipulation
+python-Levenshtein>=0.25.0  # Fuzzy matching
+
+# Blockchain
+web3>=7.0.0              # Ethereum/EVM interaction
+base58>=2.1.0            # Bitcoin address encoding
+
+# Utilities
+python-dotenv>=1.0.0     # Environment configuration
+pydantic>=2.0.0          # Data validation
+structlog>=24.0.0        # Structured logging
+
+# Testing
+pytest>=8.0.0
+pytest-cov>=4.0.0
+pytest-asyncio>=0.23.0
+responses>=0.25.0        # Mock HTTP responses
+
+# Development
+black>=24.0.0
+ruff>=0.3.0
+mypy>=1.9.0

@@ -138,6 +138,20 @@ The Treasury Sanctions List Service (SLS) **requires a User-Agent HTTP header**.
 - This tool aids compliance but does not constitute legal advice
 - Consult with legal counsel for your specific compliance obligations
 
+## 👤 Author
+
+**Osman Sönmez**
+
+Blockchain Security Researcher & Legal Tech Specialist | Smart Contract Auditor | Solidity Developer
+
+Bridging the gap between legal compliance and blockchain technology. Specializing in cryptocurrency AML/CFT frameworks, smart contract security audits, and regulatory technology solutions.
+
+- 🌐 Website: [osmansonmez.com](https://osmansonmez.com)
+- 💼 LinkedIn: [linkedin.com/in/sonmezosman](https://www.linkedin.com/in/sonmezosman)
+- 🔐 Focus: Blockchain Security | AML Compliance | Smart Contract Auditing
+
+---
+
 ## 🤝 Contributing
 
 Contributions are welcome! Please see [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines.

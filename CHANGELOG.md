@@ -639,3 +639,4 @@ All notable changes to this project.
 - [2026-02-20] Docs: API integration guidelines
 - [2026-02-23] Research: cross-border transaction monitoring
 - [2026-02-23] Docs: regulatory framework notes
+- [2026-02-24] Research: cross-border transaction monitoring

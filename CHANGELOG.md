@@ -641,3 +641,4 @@ All notable changes to this project.
 - [2026-02-23] Docs: regulatory framework notes
 - [2026-02-24] Research: cross-border transaction monitoring
 - [2026-02-25] Research: DeFi compliance requirements
+- [2026-02-25] Docs: regulatory framework notes

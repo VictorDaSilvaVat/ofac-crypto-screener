@@ -1,3 +1,8 @@
+![CI](https://github.com/sonmez-lab/ofac-crypto-screener/workflows/CI/badge.svg)
+![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
+![GitHub stars](https://img.shields.io/github/stars/sonmez-lab/ofac-crypto-screener?style=social)
+![GitHub issues](https://img.shields.io/github/issues/sonmez-lab/ofac-crypto-screener)
+
 # OFAC Crypto Screener
 
 ## 👤 Author
